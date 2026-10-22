@@ -1,0 +1,8 @@
+{
+  "name": "Sistem Tes Calon Peserta Didik Baru",
+  "description": "Platform ujian seleksi online, pendaftaran calon peserta didik baru (PPDB), penilaian otomatis, dan publikasi hasil kelulusan sekolah.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
